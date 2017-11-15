@@ -1,4 +1,4 @@
-# Crowdgift
+# Simple Wallet Contract
 
 [![Build Status](https://travis-ci.org/bitclave/simple-wallet-contract.svg?branch=master)](https://travis-ci.org/bitclave/simple-wallet-contract)
 [![Coverage Status](https://coveralls.io/repos/github/bitclave/simple-wallet-contract/badge.svg)](https://coveralls.io/github/bitclave/simple-wallet-contract)
